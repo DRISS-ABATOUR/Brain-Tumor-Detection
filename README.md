@@ -1,6 +1,4 @@
-Certainly! Below is a README file tailored for your "Brain Tumor Detection" project using Mask R-CNN:
 
----
 
 # Brain Tumor Detection using Mask R-CNN
 
